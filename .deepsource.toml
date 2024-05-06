@@ -14,3 +14,9 @@ name = "javascript"
     "jquery",
     "browser"
   ]
+
+[[transformers]]
+name = "prettier"
+
+[[transformers]]
+name = "standardjs"
