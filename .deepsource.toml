@@ -7,5 +7,10 @@ name = "javascript"
   plugins = ["react"]
   environment = [
     "nodejs",
-    "mongo"
+    "mongo",
+    "jest",
+    "cypress",
+    "mocha",
+    "jquery",
+    "browser"
   ]
